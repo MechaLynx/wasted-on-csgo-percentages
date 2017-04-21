@@ -2,6 +2,8 @@
 // @name        wasted-on-csgo-percentage
 // @namespace   mechalynx/wasted-on-csgo-percentages
 // @description Shows percentages and allows sorting on wasted-on-csgo.com
+// @copyright   2017, MechaLynx (https://github.com/MechaLynx)
+// @updateURL   https://openuserjs.org/meta/MechaLynx/wasted-on-csgo-percentage.meta.js
 // @include     http://wasted-on-csgo.com/steamid/*
 // @version     0.0.2
 // @grant       none
